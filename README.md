@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Creates messages for contributors who open first issue
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- create messages
+- helps navigate issues
 
 ## Getting started
 
